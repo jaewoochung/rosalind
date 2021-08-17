@@ -1,6 +1,6 @@
 # Rosalind Problem Sets
 
-##Rosalind is a platform for learning bioinformatics and programming through problem solving
+## Rosalind is a platform for learning bioinformatics and programming through problem solving
 
 ### Counting DNA Nucleotides
 > counting_dna.py
